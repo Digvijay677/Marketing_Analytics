@@ -1,5 +1,5 @@
 
-# 🛍️ Marketing Analytics – Data Analytics Project
+# 🛍️ Marketing Analysis
 
 ## 📌 Overview
 An online retail business experiencing a decline in **customer engagement** and **conversion rates** despite significant investment in digital marketing campaigns.  
